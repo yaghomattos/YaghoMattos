@@ -2,12 +2,19 @@
 
 ### About me -> Drift lover, Virtual racing driver, GearHead, Gamer and Programmer by madness and love
 
+<a href="https://github.com/yaghomattos/github-stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaghomattos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/yaghomattos/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/yaghomattos/github-stats/blob/master/generated/languages.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=tokyonight)
+</a>
+
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaghomattos&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=tokyonight)
+
 **YaghoMattos/YaghoMattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
