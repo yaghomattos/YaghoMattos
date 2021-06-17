@@ -1,4 +1,7 @@
 ### Welcome !! :metal:
+
+<img alt="funhave" src="public/funhave.png" />
+
 I am a Computer Science undergraduate student at Universidade Federal de Juiz de Fora (UFJF), focused on web development looking for opportunities and possibilities to collaborate.
 
 ```
