@@ -1,6 +1,13 @@
-## Welcome !! :metal:
+### Welcome !! :metal:
+I am a Computer Science undergraduate student at Universidade Federal de Juiz de Fora (UFJF), focused on web development looking for opportunities and possibilities for collaboration.
 
-### About me -> Drift lover, Virtual racing driver, GearHead, Gamer and Programmer by madness and love
+```
+- Fun Haver drift;
+- Sim racing and drift driver;
+- GearHead;
+- Gamer;
+- Programmer by madness and love;
+```
 
 <a href="https://github.com/yaghomattos/github-stats">
 
