@@ -1,8 +1,8 @@
 ### Welcome !! :metal:
-I am a Computer Science undergraduate student at Universidade Federal de Juiz de Fora (UFJF), focused on web development looking for opportunities and possibilities for collaboration.
+I am a Computer Science undergraduate student at Universidade Federal de Juiz de Fora (UFJF), focused on web development looking for opportunities and possibilities to collaborate.
 
 ```
-- Fun Haver drift;
+- Fun-Haver drift;
 - Sim racing and drift driver;
 - GearHead;
 - Gamer;
