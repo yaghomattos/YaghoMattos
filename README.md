@@ -11,16 +11,18 @@ I am a Computer Science undergraduate student at Universidade Federal de Juiz de
 - Gamer;
 - Programmer by madness and love;
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 <a href="https://github.com/yaghomattos/github-stats">
-
-![](https://github.com/yaghomattos/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/yaghomattos/github-stats/blob/master/generated/languages.svg)
-
+  <img align="center" src="https://github.com/yaghomattos/github-stats/blob/master/generated/languages.svg" />
 </a>
 
 
 <!--
+![](https://github.com/yaghomattos/github-stats/blob/master/generated/overview.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaghomattos&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=tokyonight)
