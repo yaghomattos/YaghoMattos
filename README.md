@@ -17,29 +17,21 @@ I am a Computer Science undergraduate student at Universidade Federal de Juiz de
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=chartreuse-dark" width="438px" />
   </a>
 
-  <a href="https://github.com/yaghomattos/github-stats">
-    <img align="center" src="https://github.com/yaghomattos/github-stats/blob/master/generated/languages.svg" height="180px"/>
+  
+  <a href="https://github.com/yaghomattos/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaghomattos&layout=compact&theme=chartreuse-dark" height="172px">
   </a>
 </p>  
 
 
 <!--
-![](https://github.com/yaghomattos/github-stats/blob/master/generated/overview.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaghomattos&layout=compact&theme=tokyonight)
+<a href="https://github.com/yaghomattos/github-stats">
+  <img align="center" src="https://github.com/yaghomattos/github-stats/blob/master/generated/languages.svg" height="180px"/>
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=yaghomattos&count_private=true&show_icons=true&theme=tokyonight)
+<a href="https://wakatime.com/@343fd392-f19e-4d9d-bcd0-ac7aa2baf7a7">
+  <img src="https://wakatime.com/badge/user/343fd392-f19e-4d9d-bcd0-ac7aa2baf7a7.svg" alt="Total time coded since Aug 20 2021" />
+</a> 
 
-**YaghoMattos/YaghoMattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
