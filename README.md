@@ -1,6 +1,6 @@
 ### Welcome !! :metal:
 
-I am a Computer Science undergraduate student at Universidade Federal de Juiz de Fora (UFJF), focused on web development looking for opportunities and possibilities to collaborate.
+I am a Computer Science undergraduate student at Federal University of Juiz de Fora, focused on web development looking for opportunities and possibilities to collaborate.
 
 <img alt="funhave" src="public/funhave.png" />
 
