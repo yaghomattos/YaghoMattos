@@ -1,6 +1,8 @@
 ### Welcome !! :metal:
 
-I am a Computer Science undergraduate student at Federal University of Juiz de Fora, focused on web development looking for opportunities and possibilities to collaborate.
+I'm a graduate in Exact Sciences and undergraduate in Computer Science at Federal University of Juiz de Fora. Looking for opportunities of collaboration and job, for professional and personal growth.
+
+
 
 <img alt="funhave" src="public/funhave.png" />
 
