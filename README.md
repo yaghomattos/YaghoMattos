@@ -1,6 +1,6 @@
 ### Welcome !! :metal:
 
-I'm a graduate in Exact Sciences and undergraduate in Computer Science at Federal University of Juiz de Fora. Looking for opportunities of collaboration and job, for professional and personal growth.
+I'm a graduated in Exact Sciences and graduated in Computer Science at Federal University of Juiz de Fora. Looking for opportunities of collaboration and job, for professional and personal growth.
 
 
 
