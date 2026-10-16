@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="352" viewBox="0 0 800 352" role="img" aria-labelledby="title desc">
+  <title id="title">Trajetória de Yagho Mattos</title>
+  <desc id="desc">Terminal simulado executando trajetoria.py: UFJF, Iniciação Científica, Estágio em TI, Suporte e Desenvolvimento, 50+ automações, Desenvolvimento e Infraestrutura desde 2026, estudando Cibersegurança e Governança de TI.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+    .lime { fill: #DFFF00; }
+    .dim { fill: #8b949e; }
+    .amber { fill: #d29922; }
+    .title { font-size: 12px; fill: #8b949e; }
+
+    .l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10 { opacity: 0; animation-duration: 18s; animation-iteration-count: infinite; animation-timing-function: steps(1, end); }
+    .l1  { animation-name: l1; }
+    .l2  { animation-name: l2; }
+    .l3  { animation-name: l3; }
+    .l4  { animation-name: l4; }
+    .l5  { animation-name: l5; }
+    .l6  { animation-name: l6; }
+    .l7  { animation-name: l7; }
+    .l8  { animation-name: l8; }
+    .l9  { animation-name: l9; }
+    .l10 { animation-name: l10; }
+    @keyframes l1  { 0%, 14.4% { opacity: 0 } 14.5%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l2  { 0%, 18.9% { opacity: 0 } 19%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l3  { 0%, 23.3% { opacity: 0 } 23.4%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l4  { 0%, 27.8% { opacity: 0 } 27.9%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l5  { 0%, 30% { opacity: 0 } 30.1%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l6  { 0%, 34.4% { opacity: 0 } 34.5%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l7  { 0%, 38.9% { opacity: 0 } 39%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l8  { 0%, 43.3% { opacity: 0 } 43.4%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l9  { 0%, 50% { opacity: 0 } 50.1%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+    @keyframes l10 { 0%, 56.7% { opacity: 0 } 56.8%, 96% { opacity: 1 } 96.1%, 100% { opacity: 0 } }
+
+    /* digitação do comando: uma máscara que anda para a direita */
+    .typing { animation: typing 18s steps(20, end) infinite; }
+    @keyframes typing { 0%, 2.8% { transform: translateX(0) } 11.1%, 96% { transform: translateX(170px) } 96.1%, 100% { transform: translateX(0) } }
+
+    /* barra de progresso dos estudos */
+    .bar { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: bar 18s ease-out infinite; }
+    @keyframes bar { 0%, 58% { transform: scaleX(0) } 80%, 96% { transform: scaleX(0.72) } 96.1%, 100% { transform: scaleX(0) } }
+
+    .pulse { animation: pulse 1.2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1 } 50% { opacity: 0.25 } }
+
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1 } 50.1%, 100% { opacity: 0 } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10 { animation: none; opacity: 1; }
+      .typing { animation: none; transform: translateX(170px); }
+      .bar { animation: none; transform: scaleX(0.72); }
+      .pulse, .cursor { animation: none; }
+    }
+  </style>
+
+  <!-- janela -->
+  <rect x="0.5" y="0.5" width="799" height="351" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 36 H799.5" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#DFFF00"/>
+  <text x="400" y="22" text-anchor="middle" class="title">yagho@juiz-de-fora: ~/carreira</text>
+
+  <!-- comando -->
+  <text x="24" y="66"><tspan class="lime">$</tspan> python trajetoria.py</text>
+  <rect class="typing" x="40" y="50" width="180" height="22" fill="#0d1117"/>
+
+  <!-- saída -->
+  <text x="24" y="92" class="dim l1">▸ carregando a trajetória de Yagho Mattos...</text>
+
+  <text x="24" y="122" class="l2"><tspan class="lime">[✔]</tspan> UFJF · Ciência da Computação + Ciências Exatas</text>
+  <text x="24" y="146" class="l3"><tspan class="lime">[✔]</tspan> Iniciação Científica (2 anos) · Plataforma de Reabilitação Motora</text>
+  <text x="24" y="168" class="dim l4">    Fisioterapia UFJF + pesquisadores UNINOVE · React Native, Firebase</text>
+  <text x="24" y="192" class="l5"><tspan class="lime">[✔]</tspan> Estágio em TI · porta de entrada na empresa</text>
+  <text x="24" y="216" class="l6"><tspan class="lime">[✔]</tspan> Suporte de TI + Desenvolvimento · usuários e clientes da contabilidade</text>
+  <text x="24" y="240" class="l7"><tspan class="lime">[✔]</tspan> 50+ automações criadas · 20 em produção · ~20 h/mês economizadas</text>
+
+  <g class="l8">
+    <text x="24" y="270"><tspan class="lime pulse">[●]</tspan> 2026 → Desenvolvimento + Infraestrutura</text>
+    <text x="776" y="270" text-anchor="end" class="lime">em execução</text>
+  </g>
+
+  <g class="l9">
+    <text x="24" y="294"><tspan class="amber">[~]</tspan> Cibersegurança &amp; Governança de TI</text>
+    <rect x="600" y="284" width="176" height="10" rx="5" fill="#21262d"/>
+    <rect class="bar" x="600" y="284" width="176" height="10" rx="5" fill="#DFFF00"/>
+  </g>
+
+  <g class="l10">
+    <text x="24" y="326"><tspan class="lime">$</tspan></text>
+    <rect class="cursor" x="40" y="314" width="9" height="16" fill="#DFFF00"/>
+  </g>
+</svg>
